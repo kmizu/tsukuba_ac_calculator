@@ -7,7 +7,7 @@
 当時はJava Appletだったものの、今はJava Appletをそのままだと動かせないのでSwingを使った形に修正してあります。
 
 ```sh
-$ mvn exec:java -Dexec.mainClass=com.gihub.kmizu.tsukuba_ac_calculator.Calculator
+$ mvn exec:java -Dexec.mainClass=com.github.kmizu.tsukuba_ac_calculator.Calculator
 ```
 
 ## スクリーンショット
